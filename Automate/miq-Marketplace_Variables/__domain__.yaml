@@ -1,0 +1,11 @@
+---
+object_type: domain
+version: 1.0
+object:
+  attributes:
+    name: miq-Marketplace_Variables
+    description: 
+    display_name: 
+    system: false
+    priority: 7
+    enabled: false

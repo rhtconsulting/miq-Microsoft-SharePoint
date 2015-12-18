@@ -1,0 +1,28 @@
+---
+__domain__.yaml:
+  classes: 1
+  instances: 1
+  created_on: 2015-12-18 23:06:09.430541000 Z
+  updated_on: 2015-12-18 23:06:53.459340000 Z
+  size: 185
+  sha1: Z/TQd0d5HjrxQmDusFFq7KFjbI4=
+miq-Marketplace_Variables/Integration/__namespace__.yaml:
+  created_on: 2015-12-18 23:06:29.793623000 Z
+  updated_on: 2015-12-18 23:06:29.793623000 Z
+  size: 163
+  sha1: GoN4U9v7cipi4qda1BU5NQ63Qa8=
+miq-Marketplace_Variables/Integration/Microsoft/__namespace__.yaml:
+  created_on: 2015-12-18 23:06:29.796257000 Z
+  updated_on: 2015-12-18 23:06:29.796257000 Z
+  size: 161
+  sha1: "/56X0/I9tcZx9dHRsCzF9TL0I0E="
+miq-Marketplace_Variables/Integration/Microsoft/SharePoint.class/__class__.yaml:
+  created_on: 2015-12-18 23:06:29.803153000 Z
+  updated_on: 2015-12-18 23:06:29.803153000 Z
+  size: 2811
+  sha1: iPKNt6UvRnGchfQozNJXri+jeFE=
+miq-Marketplace_Variables/Integration/Microsoft/SharePoint.class/Default.yaml:
+  created_on: 2015-12-18 23:06:29.891178000 Z
+  updated_on: 2015-12-18 23:07:14.255215000 Z
+  size: 488
+  sha1: 604apyis/7el+IeR51x4WeyhhD8=
